@@ -12,4 +12,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-   - '**/*'
+   - codepipeline-us-east-1-839847614877/hospital-mangement-p/
